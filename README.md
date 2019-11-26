@@ -8,4 +8,4 @@ Las prácticas de álgebra computacional
 
 ## Práctica 6: [Logaritmo discreto](https://github.com/jsainero/alcomp/blob/master/pr6.mw)
 
-## Práctica 8: [Algoritmo de factorizacion de Berlekamp](https://github.com/jsainero/alcomp/blob/master/pr6.mw)
+## Práctica 8: [Algoritmo de factorizacion de Berlekamp](https://github.com/jsainero/alcomp/blob/master/pr8.mw)
