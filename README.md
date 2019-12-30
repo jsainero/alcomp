@@ -8,5 +8,6 @@ Las prácticas de álgebra computacional
 ## Práctica 5: [Test de irreducibilidad de un poliomio](https://github.com/jsainero/alcomp/blob/master/pr5.mw)
 ## Práctica 6: [Logaritmo discreto](https://github.com/jsainero/alcomp/blob/master/pr6.mw)
 ## Práctica 7: [Factorización de un polinomio en un cuerpo finito](https://github.com/jsainero/alcomp/blob/master/pr7.mw)
-## Práctica 8: [Algoritmo de factorizacion de Berlekamp](https://github.com/jsainero/alcomp/blob/master/pr8.mw)
+## Práctica 8: [Algoritmo de factorización de Berlekamp](https://github.com/jsainero/alcomp/blob/master/pr8.mw)
+## Práctica 9: [Algoritmo de factorización en Z\[x\]](https://github.com/jsainero/alcomp/blob/master/pr9.mw)
 ## Práctica 10: [Algoritmo de primalidad de AKS](https://github.com/jsainero/alcomp/blob/master/pr10.mw)
